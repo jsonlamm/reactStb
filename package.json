@@ -1,0 +1,33 @@
+{
+  "name": "reactstb",
+  "version": "1.0.0",
+  "description": "react project",
+  "main": "app.js",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "express": "^4.16.3",
+    "live-server": "^1.2.0",
+    "nodemon": "^1.17.4",
+    "path": "^0.12.7",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "webpack": "^4.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsonlamm/reactStb.git"
+  },
+  "author": "Jason Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsonlamm/reactStb/issues"
+  },
+  "homepage": "https://github.com/jsonlamm/reactStb#readme"
+}
